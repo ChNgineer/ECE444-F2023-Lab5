@@ -1,5 +1,6 @@
 asttokens==2.4.0
 backcall==0.2.0
+black==23.10.1
 blinker==1.6.2
 certifi==2022.12.7
 charset-normalizer==2.1.1
@@ -12,6 +13,7 @@ dominate==2.8.0
 email-validator==2.0.0.post2
 executing==1.2.0
 filelock==3.9.0
+flake8==6.1.0
 Flask==2.3.3
 Flask-Bootstrap==3.3.7.1
 Flask-Moment==1.0.5
@@ -34,7 +36,9 @@ jupyter_core==5.3.1
 jupyterlab-widgets==3.0.9
 MarkupSafe==2.1.2
 matplotlib-inline==0.1.6
+mccabe==0.7.0
 mpmath==1.2.1
+mypy-extensions==1.0.0
 nest-asyncio==1.5.8
 networkx==3.0
 nltk==3.8.1
@@ -42,6 +46,7 @@ numpy==1.26.0
 packaging==23.1
 pandas==2.1.1
 parso==0.8.3
+pathspec==0.11.2
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==9.3.0
@@ -51,6 +56,8 @@ prompt-toolkit==3.0.39
 psutil==5.9.5
 ptyprocess==0.7.0
 pure-eval==0.2.2
+pycodestyle==2.11.1
+pyflakes==3.1.0
 Pygments==2.16.1
 pytest==7.4.3
 python-dateutil==2.8.2
