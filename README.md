@@ -38,7 +38,7 @@ This repo is a replay of https://github.com/mjhea0/flaskr-tdd
 All unit tests under TestEmail are written by me.
 https://github.com/ECE444-2023Fall/project-1-web-application-design-group22-premium-potatoes/blob/chen-dev/api/utils/unit_tests/mailing_test/mailing_test.py#L24-91
 
-If the previous link does not work, it is because the branch has been merged and squashed. If the previous link works, this one should be ignored.
+If the previous link does NOT work, it is because the branch has been merged and squashed. If the previous link works, this one should be ignored.
 https://github.com/ECE444-2023Fall/project-1-web-application-design-group22-premium-potatoes/blob/main/api/utils/unit_tests/mailing_test/mailing_test.py#L24-91
 
 ![Alt text](images/potato_test_snippet.png)
