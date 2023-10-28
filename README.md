@@ -1,4 +1,5 @@
 # ECE444-F2023-Lab5
+This repo is a replay of https://github.com/mjhea0/flaskr-tdd
 
 # First Test
 
@@ -31,6 +32,18 @@
 # Login Required Final Test
 
 ![Alt text](images/test6_pass.png)
+
+# Project 1 Group Unit Test
+
+All unit tests under TestEmail are written by me.
+https://github.com/ECE444-2023Fall/project-1-web-application-design-group22-premium-potatoes/blob/chen-dev/api/utils/unit_tests/mailing_test/mailing_test.py#L24-91
+
+If the previous link does not work, it is because the branch has been merged and squashed. If the previous link works, this one should be ignored.
+https://github.com/ECE444-2023Fall/project-1-web-application-design-group22-premium-potatoes/blob/main/api/utils/unit_tests/mailing_test/mailing_test.py#L24-91
+
+![Alt text](images/potato_test_snippet.png)
+
+![Alt text](images/potato_test_pass.png)
 
 # Pros and Cons of TDD
 
